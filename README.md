@@ -1,12 +1,12 @@
-# TS ACADEMY Capstone Project - Group 19 (March 2026)
+# **TS ACADEMY Capstone Project - Group 19 (March 2026)**
 
-### Title Brain Cancer Gene Expression Analysis for Subtype Classification and Biomarker Discovery
+### Title: Brain Cancer Gene Expression Analysis for Subtype Classification and Biomarker Discovery
 
 ## Project Overview
 
 This capstone project focuses on the computational analysis of the Brain_GSE50161 dataset, containing 54,676 gene expression features across 130 samples representing four distinct brain cancer types (ependymoma, glioblastoma, medulloblastoma, pilocytic astrocytoma) and normal tissue. The primary objective is to develop machine learning models capable of accurately classifying brain cancer subtypes while identifying potential biomarkers for diagnostic and therapeutic applications.
 
-**Key Objectives:**
+** Project Objectives:**
 - Analyze gene expression patterns driving tumor growth and subtype differentiation
 - Develop supervised learning models for accurate brain cancer subtype classification
 - Identify "Elite" genes (potential biomarkers) with highest diagnostic value
