@@ -8,9 +8,9 @@
 ![Genomics](https://img.shields.io/badge/Genomics-Bioinformatics-ff69b4)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![Elsevier Science](https://img.shields.io/badge/Elsevier%20Science-FF6B6B?style=flat&logo=elsevier&logoColor=white)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Status](https://img.shields.io/badge/status-Completed-success)
-![Last Updated](https://img.shields.io/badge/last%20updated-March%202026-brightgreen)
 
 # Team Members (Group 19)
 
@@ -227,8 +227,9 @@ You may obtain a copy of the License at:
 
 # References
 
-- Brändl, B., Steiger, M., Kubelt, C., Rohrandt, C., Zhu, Z., Evers, M., Wang, G., Schuldt, B., Afflerbach, A.-K., Wong, D., Lum, A., Halldorsson, S., Djirackor, L., Leske, H., Magadeeva, S., Smičius, R., Quedenau, C., Schmidt, N. O., Schüller, U., … Müller, F.-J. (2025). Rapid brain tumor classification from sparse epigenomic data. Nature Medicine. Advance online publication. https://doi.org/10.1038/s41591-024-03435-3
+- Brändl, B., Steiger, M., Kubelt, C., Rohrandt, C., Zhu, Z., Evers, M., Wang, G., Schuldt, B., Afflerbach, A. K., Wong, D., Lum, A., Halldorsson, S., Djirackor, L., Leske, H., Magadeeva, S., Smičius, R., Quedenau, C., Schmidt, N. O., Schüller, U., Müller, F.J. (2025). Rapid brain tumor classification from sparse epigenomic data. Nature Medicine. Advance online publication. https://doi.org/10.1038/s41591-024-03435-3
 - Yadav, K., & Ranga, V. (2025). Integrated analysis of gene expressions and targeted mirnas for explaining crosstalk between oral and esophageal squamous cell carcinomas through an interpretable machine learning approach. Medical & Biological Engineering & Computing, 63(2), 483–495. https://doi.org/10.1007/s11517-024-03210-z 
 - Suita, Y., Bright, H., Pu, Y., Toruner, M. D., Idehen, J., Tapinos, N., & Singh, R. (2025). Machine learning on multiple epigenetic features reveals H3K27Ac as a driver of gene expression prediction across patients with glioblastoma. PLOS Computational Biology, 21(8), e1012272. https://doi.org/10.1371/journal.pcbi.1012272 
 - Suarez-Meade, P., Clemenceau, J. R., Barnfather, I., Edgar, M., Basil, A., Hwang, T. H., & Quinones-Hinojosa, A. (2025). Multi-Omics Integration and Mapping of Invasion Markers Reveal Tumor-Specific Druggable Targets in Primary Human Glioblastoma. Neurosurgery, 71(Supplement_1), 121–122. https://doi.org/10.1227/neu.0000000000003360_494
+
 
