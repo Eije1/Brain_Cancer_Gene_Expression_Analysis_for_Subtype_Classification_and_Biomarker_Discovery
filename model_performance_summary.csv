@@ -1,0 +1,4 @@
+Model,Accuracy,Cross_Validation_Score,Number_of_Features,Feature_Selection_Method,Training_Time
+Logistic Regression,0.8462,N/A,54675,None,N/A
+Random Forest,0.8846,N/A,54675,None,N/A
+Optimized Random Forest (RFE + Hypertuning),0.9231,0.8923,30,RFE + Variance Threshold,N/A
